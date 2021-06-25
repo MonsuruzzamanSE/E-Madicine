@@ -1,4 +1,4 @@
-       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
 
 
@@ -34,35 +34,35 @@
 
 <section class="home-slider owl-carousel js-fullheight">
       <div class="slider-item js-fullheight" style="background-image: url(images/bg_1.jpg);">
-      	<div class="overlay"></div>
+        <div class="overlay"></div>
         <div class="container">
           <div class="row slider-text js-fullheight justify-content-center align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-12 col-sm-12 text-center ftco-animate">
-            	<span class="subheading"></span>
+              <span class="subheading"></span>
               <h1 class="mb-4">MEDICINE IS THE BEST MEDICINE</h1>
             </div>
 
               <section class="ftco-section ftco-wrap-about">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-7 d-flex">
-						<div class="img img-1 mr-md-2" style="background-image: url(images/about.jpg);"></div>
-						<div class="img img-2 ml-md-2" style="background-image: url(images/about-1.jpg);"></div>
-					</div>
-					<div class="col-md-5 wrap-about pt-5 pt-md-5 pb-md-3 ftco-animate">
-	          <div class="heading-section mb-4 my-5 my-md-0">
-	          	<span class="subheading">About</span>
-	            <h2 class="mb-4">E-Medicine</h2>
-	          </div>
-	          <p>"Best medicine decisions are at the heart of appropriate care, the goal to which our system should aspire."</p>
-						<pc class="time">
-							<span>365 days <strong>24 hours</strong></span>
-							<span><a href="#">+8801767257931</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 d-flex">
+            <div class="img img-1 mr-md-2" style="background-image: url(images/about.jpg);"></div>
+            <div class="img img-2 ml-md-2" style="background-image: url(images/about-1.jpg);"></div>
+          </div>
+          <div class="col-md-5 wrap-about pt-5 pt-md-5 pb-md-3 ftco-animate">
+            <div class="heading-section mb-4 my-5 my-md-0">
+              <span class="subheading">About</span>
+              <h2 class="mb-4">E-Medicine</h2>
+            </div>
+            <p>"Best medicine decisions are at the heart of appropriate care, the goal to which our system should aspire."</p>
+            <pc class="time">
+              <span>365 days <strong>24 hours</strong></span>
+              <span><a href="#">+8801767257931</a></span>
+            </p>
+          </div>
+        </div>
+      </div>
 
 
 
