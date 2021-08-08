@@ -1,52 +1,46 @@
-#E-Medicine    
-   <!DOCTYPE html>
+#e-meds.bd
+<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
-    <!-- basic -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- mobile metas -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-    <!-- site metas -->
+
     <title>e-meds.bd</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
-    <!-- bootstrap css -->
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- style css -->
+
     <link rel="stylesheet" href="css/style.css">
-    <!-- Responsive-->
+
     <link rel="stylesheet" href="css/responsive.css">
-    <!-- fevicon -->
-    <link rel="icon" href="images/fevicon.png" type="image/gif" />
-    <!-- Scrollbar Custom CSS -->
-    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-    <!-- Tweaks for older IEs-->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+
+
+
+
+      <script src=""></script>
+      <script src=""></script>
 </head>
-<!-- body -->
+
 
 <body class="main-layout">
-    <!-- loader  -->
-    <div class="loader_bg">
-        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
-    </div>
-    <!-- end loader -->
-    <!-- header -->
+
     <header id="home">
-        <!-- header inner -->
+
         <div class="header">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                         <div class="full">
                             <div class="center-desk">
-                                <div class="logo"> <a href="index.html"><img src="images/logo.jpg" alt="#"></a> </div>
+                                <div class="logo"> <a href="index.html"><img src=""></a> </div>
                             </div>
                         </div>
                     </div>
@@ -67,9 +61,8 @@
                 </div>
             </div>
         </div>
-        <!-- end header inner -->
+
     </header>
-    <!-- end header -->
 
 
     <section class="slider_section">
@@ -84,19 +77,19 @@
                 </div>
                 <div class="col-md-6">
                     <div class="full text_align_center">
-                        <img class="slide_img" src="images/slider_img.png" alt="#" /> 
+                        <img class="slide_img" src=""  /> 
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- about -->
+
     <div id="about" class="about layout_padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <img class="img-responsive" src="images/about_img.jpg" alt="#" />
+                    <img class="img-responsive" src=""  />
                 </div>
                 <div class="col-md-6">
                     <div class="heading margin_top_30">
@@ -106,14 +99,13 @@
                         <p>An online pharmacy, internet pharmacy, or mail-order pharmacy is a pharmacy that operates over the Internet and sends orders to customers through mail, shipping companies, or online pharmacy web portal. Home delivery, Risks and concerns, Discussion, International consumers, Overseas online pharmacies and Bangladesh. law. N.B There is also an advantage in returning unused medicine.</p>
                     </div>
                     <div class="full margin_top_30">
-                        <a class="main_bt" href="#">Red More</a>
+                        <a class="main_bt" href="#">Read More</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- end about -->
-    <!-- section -->
+
     <div id="fruits" class="section dark_bg layout_padding left_white">
         <div class="container">
             <div class="row">
@@ -126,7 +118,7 @@
             <div class="row">
                <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f1.jpg" alt="#" />
+                        <img class="img-responsive" src=""  />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">Comet (500, 850, XR 1mg, XR 500)<br><strong class="theme_blue">Diabetes medicine</strong></h3>
@@ -134,7 +126,7 @@
                 </div>
                 <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f2.jpg" alt="#" />
+                        <img class="img-responsive" src=""  />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">TTvax<br><strong class="theme_blue">Tetanus Toxoid Vaccine</strong></h3>
@@ -142,7 +134,7 @@
                 </div>
                 <div class="col-md-4 margin_top_30">
                     <div class="full fr">
-                        <img class="img-responsive" src="images/f3.jpg" alt="#" />
+                        <img class="img-responsive" src="" />
                     </div>
                     <div class="full text_align_center">
                         <h3 class="white_font">Napa® Tablet<br><strong class="theme_blue">Syrup/Suspension/Suppositry/Drop</strong></h3>
@@ -151,8 +143,7 @@
             </div>
         </div>
     </div>
-    <!-- end section -->
-    <!-- section -->
+
     <div class="section layout_padding">
         <div class="container">
             <div class="row">
@@ -167,14 +158,13 @@
                 </div>
                 <div class="col-md-6 margin_top_30 padding_right_0">
                     <div class="full">
-                        <img src="images/green_fr.png" alt="#" />
+                        <img src="" />
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- end section -->
-<!-- section -->
+
     <div id="blog" class="section dark_bg layout_padding right_white">
         <div class="container">
             <div class="row">
@@ -188,7 +178,7 @@
                <div class="col-md-4 margin_top_30">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
-                        <img class="img-responsive" src="images/blog1.png" alt="#" />
+                        <img class="img-responsive" src="" />
                     </div>
                     <div class="full blog_blue text_align_center">
                         <h5 class="white_font">Prof. Dr. Md. Matiur Rahman</h3>
@@ -199,7 +189,7 @@
                 <div class="col-md-4 margin_top_30">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
-                        <img class="img-responsive" src="images/blog2.png" alt="#" />
+                        <img class="img-responsive" src="" />
                     </div> 
                     <div class="full blog_blue text_align_center">
                         <h5 class="white_font">Prof. Dr. Shamsun Nahar Begum (Hena)</h3>
@@ -210,7 +200,7 @@
                 <div class="col-md-4 margin_top_30">
                     <div class="full" style="overflow: hidden;">
                     <div class="full bl">
-                        <img class="img-responsive" src="images/blog3.png" alt="#" />
+                        <img class="img-responsive" src="" />
                     </div> 
                     <div class="full blog_blue text_align_center">
                         <h5 class="white_font">Dr. Soumitra Roy</h3>
@@ -222,15 +212,14 @@
             </div>
         </div>
     </div>
-    <!-- end section -->
-    <!-- section -->
+
     <div id="contact" class="section layout_padding">
         <div class="container-fluid">
             <div class="row">
-                
+
                 <div class="col-md-6 padding_left_0">
                     <div class="full">
-                        <img class="float-left" src="images/fruit_img.jpg" alt="#" />
+                        <img class="float-left" src="" />
                     </div>
                 </div>
 
@@ -260,15 +249,13 @@
                         <button class="main_bt">Send</button>
                     </form>
                     </div>   
-                    
+
                 </div>
-                
+
             </div>
         </div>
     </div>
-    <!-- end section -->
 
-    <!-- footer -->
     <footer>
         <div class="footer layout_padding">
             <div class="container">
@@ -288,9 +275,9 @@
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Recent Review</h3>
-                            <p><span><img src="images/f_b1.jpg"></span><span>Basically is it a very helpful site,<br>Reviewed in the Boroikandi</span></p>
-                            <p class="margin_top_20"><span><img src="images/f_b2.jpg"></span><span>Quality concern is very good,<br>Reviewed in the Shibganj</span></p>
-                            <p class="margin_top_20"><span><img src="images/f_b3.jpg"></span><span>Friendly and quickly delivered,<br>Reviewed in the Bagbari</span></p>
+                            <p><span><img src=""></span><span>Basically is it a very helpful site,<br>Reviewed in the Boroikandi</span></p>
+                            <p class="margin_top_20"><span><img src=""></span><span>Quality concern is very good,<br>Reviewed in the Shibganj</span></p>
+                            <p class="margin_top_20"><span><img src=""></span><span>Friendly and quickly delivered,<br>Reviewed in the Bagbari</span></p>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <h3>Newsletter</h3>
@@ -304,23 +291,11 @@
                     </div>
             </div>
         </div>
-        <div class="copyright">
             <div class="container">
-                <p>This template is made with by Monsur & Mahdi {CSE-50(A)} <a href="https://html.design/">html</a></p>
+                <p>This template is made with by Monsur & Mahdi <b>MU-CSE-50(A)</b></p>
             </div>
         </div>
     </footer>
-    <!-- end footer -->
-    <!-- Javascript files-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery-3.0.0.min.js"></script>
-    <script src="js/plugin.js"></script>
-
-    <!-- sidebar -->
-    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-    <script src="js/custom.js"></script>
 </body>
 
 </html>
