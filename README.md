@@ -50,8 +50,8 @@
                                 <nav class="main-menu">
                                     <ul class="menu-area-main">
                                         <li class="active"><a href="#home">Home</a></li>
-                                        <li><a href="#fruits">Medicine</a></li>
-                                        <li><a href="#blog">Our Consultant</a></li>
+                                        <li><a href="#Medicine">Medicine</a></li>
+                                        <li><a href="#Consultant">Our Consultant</a></li>
                                         <li><a href="#contact">Contact Us</a></li>
                                     </ul>
                                 </nav>
@@ -269,8 +269,8 @@
                             <p>
                               <a href="#home">Home</a><br>
                               <a href="#about">About Us</a><br>
-                              <a href="#fruits">Medicine</a><br>
-                              <a href="#blog">Consultant</a><br>
+                              <a href="#Medicine">Medicine</a><br>
+                              <a href="#consultant">Consultant</a><br>
                               <a href="#contact">Contact Us</a>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-12">
